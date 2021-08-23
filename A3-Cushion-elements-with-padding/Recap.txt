@@ -1,0 +1,6 @@
+Recap
+Padding is the space between an element's contents and border.
+
+Set padding by using the  padding  property and setting a space value in pixels, em/rem, or percentages. 
+
+Multiple values for  padding  can be set by changing TRBL (top, right, bottom, left) margins.

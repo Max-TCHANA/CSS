@@ -1,0 +1,21 @@
+/*Setting border width*/
+
+p {
+    border-width: thin;
+}
+
+p {
+    border-width: medium;
+}
+
+p {
+    border-width: thick;
+}
+
+p {
+    border-width: 8px;
+}
+
+p {
+    border-width: 1.5em;
+}

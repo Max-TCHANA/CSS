@@ -1,0 +1,41 @@
+/*
+Recap
+- Every HTML element has its own box.
+
+- "Boxes" for block elements take up the whole page, while "boxes" for inline elements will only be as big as the element itself. 
+
+- Containing elements or "containers" (ex. a div) have other elements inside them.  
+
+*/
+
+
+body {
+    color: #fff;
+    font-family: Futura;
+    padding: 20px;
+}
+
+h1 {
+    background-color: #A4036F;
+}
+
+h3 {
+    background-color: #048BA8;
+}
+
+#one {
+    background-color: #16DB93;
+}
+
+ul {
+    background-color: #EFEA5A;
+}
+
+#two {
+    background-color: #FE5E41;
+}
+
+a {
+    background-color: #E6F6C2;
+    color: #000;
+}

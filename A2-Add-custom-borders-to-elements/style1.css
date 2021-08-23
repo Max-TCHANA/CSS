@@ -1,0 +1,19 @@
+/*Border syntax*/
+
+h1 {
+    border-width: 5px;
+    border-style: solid; 
+    border-color: red;
+}
+
+h3 {
+    border-width: 1em;
+    border-style: dashed; 
+    border-color: #A4036F;
+}
+
+p {
+    border-width: thick;
+    border-style: dotted;
+    border-color: rgb(22, 219, 147);
+}

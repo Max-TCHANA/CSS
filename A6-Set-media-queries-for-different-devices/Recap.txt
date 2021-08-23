@@ -1,0 +1,14 @@
+Recap
+This was a tough chapter, so let's sum up what we covered:
+
+Media queries allow the loading of various CSS styles based on certain settings.
+
+There are a large number of settings allowed by media queries: number of colors, screen resolution, orientation, etc. 
+In practice, they are mostly used to change the website's appearance for different screen resolutions.
+
+You create a media query with the  @media  directive followed by the screen type and one or more conditions (such as the maximum screen width). 
+The following CSS style will be enabled only if the conditions are met.
+
+Mobile browsers simulate a screen width: this is called the viewport.
+
+Smartphones can be targeted by a rule based on the actual number of pixels displayed on the screen:  max-device-width.

@@ -1,0 +1,32 @@
+body {
+    font-family: Futura;
+}
+
+h1 {
+    color: #B33C86;
+    border: 10px solid #B33C86;
+    padding: 10px;
+}
+
+p {
+    color: #190E4F;
+    border: 5px solid #190E4F;
+    padding: 10px;
+}
+
+/* Setting multiple padding values
+p {
+    padding: 5px 30px 5px 30px;
+}
+
+Remember the acronym TRBL (top, right, bottom, left) if you have a hard time remembering the value order. 
+It sounds like "trouble!"
+
+If your top/bottom values are the same, and your left/right values are the same, you can also just set two values: 
+one for the top/bottom padding and another for left/right padding.
+
+p {
+    padding: 5px 30px;
+}
+
+*/

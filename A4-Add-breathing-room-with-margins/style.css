@@ -1,0 +1,22 @@
+body {
+    width: 700px;
+    text-align: center;
+}
+
+p {
+    font-family: 'Minion Pro';
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+img {
+    width: 150px;
+    border: 10px solid black;
+    margin: 20px;
+}
+
+/*
+Collapsing margins
+Margins exhibit one unusual feature: vertical margins collapse.
+ */

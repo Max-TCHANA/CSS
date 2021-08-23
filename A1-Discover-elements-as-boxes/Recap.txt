@@ -1,0 +1,7 @@
+Recap
+
+Every HTML element has its own box.
+
+"Boxes" for block elements take up the whole page, while "boxes" for inline elements will only be as big as the element itself. 
+
+Containing elements or "containers" (ex. a div) have other elements inside them.

@@ -1,0 +1,8 @@
+Recap
+
+Use the  height  and  width  properties to size elements in pixels, em/rem, or percentages. 
+
+Padding and borders are added to the height and width; 
+to include them in the overall size of the element, use the  box-sizing  property and set it to  border-box . 
+
+Use  max-width  ,  max-height  ,  min-width  , and  min-height  to ensure that elements never go above or below a certain size. 

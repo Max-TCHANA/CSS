@@ -1,0 +1,12 @@
+Recap
+
+Margin is the CSS property that controls spacing between elements and can be set in pixels, em/rem, or percentages. 
+
+Multiple values for margins can be set by changing TRBL (top, right, bottom, left) margins. 
+
+Default space between elements is set by the browser.
+
+For block elements, when two vertical margins with different values touch, the margins don't accumulate. Instead, they collapse,
+ and the largest value will be kept. This is called vertical margin collapse. 
+
+To center elements, you can set margins to  auto  . 

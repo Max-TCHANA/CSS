@@ -1,0 +1,14 @@
+Recap
+Each HTML element has a border.
+
+To set the width of a border, use  border-width  and define the size with pixels, em/rem, or special CSS words (thin, medium, thick).
+
+To set the style, use  border-style  and choose a style from the list of available CSS words.  
+
+To set the color, use  border-color  and use either hex, RGB, or RGBA color codes. 
+
+To set width, style, and color all at once, use the  border  property.
+
+To set individual borders, use top, right, left, and bottom (ex.  border-top-style ).
+
+To curve the corners of a border, use  border-radius  .

@@ -1,0 +1,30 @@
+body {
+    font-family: Avenir, Arial, sans-serif;
+    text-align: center;
+}
+
+.main {
+    border: 10px dotted black;
+    padding: 20px;
+    margin: 0px auto;
+    width: 37.5em;
+}
+
+h1 {
+    margin: 0px;
+}
+
+blockquote {
+    padding: 20px;
+    background-color: lightgreen;
+    border-radius: 10px;
+    margin: 10px auto;
+    text-align: center;
+    width: 50%;
+}
+
+/* Minimum and maximum widths and heights
+You may want to set values that never let an element's width or height go above or below a certain value. 
+The  min-width ,  max-width ,  min-height , and  max-height  properties are good for this.
+
+*/

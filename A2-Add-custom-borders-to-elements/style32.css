@@ -1,0 +1,34 @@
+/* Setting border style 
+ Here is the full list of possible options for setting borders in CSS:
+
+solid
+
+dashed
+
+dotted
+
+double
+
+groove
+
+hidden
+
+none
+
+ridge
+
+inset
+
+outset
+
+You can even set specific border styles per side by using property names that specify the top, bottom, left, or right border:
+
+*/
+
+p {
+    border-top-style: dotted;
+    border-bottom-style: dashed;
+    border-left-style: solid;
+    border-right-style: double;
+}
+
