@@ -1,0 +1,273 @@
+body {
+    font-family: Helvetica;
+    font-size: 1.4em;
+    color: black;
+    width: 35%;
+    //text-align: center;
+}
+
+h1 {
+  font-size: 4em;
+  background-color: #ECFAFE;
+  height: 0.8em;
+  padding: 0.05em;
+ }
+
+.whole {
+  
+  background-color: #ECFAFE;
+  padding: 0.3em;
+  
+}
+
+.container {
+    display: grid;
+    grid-template: repeat(6, 1fr) / repeat(6, 0.01fr);
+  grid-template-areas: 
+"a b c d e  f"
+"g h i j k l"
+"m n o p q r"
+"s t u v w w"
+"x y z a1 w w"
+"a2 a3 a4 . . ."
+;
+ grid-gap: 0.5em 0.5em;
+ background-color: #ECFAFE;
+}
+
+#numb1 {
+    border-width: 2px;
+    border-style: solid; 
+    border-color: black;
+    text-align: center;
+    padding: 15px;
+    grid-area: a;
+}
+
+#numb2 {
+    border-width: 2px;
+    border-style: solid; 
+    border-color: black;
+    text-align: center;
+    padding: 15px;
+    grid-area: b;
+}
+
+#numb3 {
+    border-width: 2px;
+    border-style: solid; 
+    border-color: black;
+    text-align: center;
+    padding: 15px;
+    grid-area: c;
+}
+
+#numb4 {
+    border-width: 2px;
+    border-style: solid; 
+    border-color: black;
+    text-align: center;
+    padding: 15px;
+    grid-area: d;
+}
+
+#numb5 {
+    border-width: 2px;
+    border-style: solid; 
+    border-color: black;
+    text-align: center;
+    padding: 15px;
+    grid-area: e;
+}
+
+#numb6 {
+    border-width: 2px;
+    border-style: solid; 
+    border-color: black;
+    text-align: center;
+    padding: 15px;
+   grid-area: f;
+}
+
+#numb7 {
+    border-width: 2px;
+    border-style: solid; 
+    border-color: black;
+    text-align: center;
+    padding: 15px;
+    grid-area: g;
+}
+
+#numb8{
+    border-width: 2px;
+    border-style: solid; 
+    border-color: black;
+    text-align: center;
+    padding: 15px;
+    grid-area: h;}
+#numb9{
+    border-width: 2px;
+    border-style: solid; 
+    border-color: black;
+    text-align: center;
+    padding: 15px;
+    grid-area: i;}
+#numb10{
+    border-width: 2px;
+    border-style: solid; 
+    border-color: black;
+    text-align: center;
+    padding: 15px;
+    grid-area: j;}
+#numb11{
+    border-width: 2px;
+    border-style: solid; 
+    border-color: black;
+    text-align: center;
+    padding: 15px;
+    grid-area: k;}
+#numb12{
+    border-width: 2px;
+    border-style: solid; 
+    border-color: black;
+    text-align: center;
+    padding: 15px;
+    grid-area: l;}
+#numb13{
+    border-width: 2px;
+    border-style: solid; 
+    border-color: black;
+    text-align: center;
+    padding: 15px;
+    grid-area: m;}
+#numb14{
+    border-width: 2px;
+    border-style: solid; 
+    border-color: black;
+    text-align: center;
+    padding: 15px;
+    grid-area: n;}
+#numb15{
+    border-width: 2px;
+    border-style: solid; 
+    border-color: black;
+    text-align: center;
+    padding: 15px;
+    grid-area: o;}
+#numb16{
+    border-width: 2px;
+    border-style: solid; 
+    border-color: black;
+    text-align: center;
+    padding: 15px;
+    grid-area: p;}
+#numb17{
+    border-width: 2px;
+    border-style: solid; 
+    border-color: black;
+    text-align: center;
+    padding: 15px;
+    grid-area: q;}
+#numb18{
+    border-width: 2px;
+    border-style: solid; 
+    border-color: black;
+    text-align: center;
+    padding: 15px;
+    grid-area: r;}
+#numb19{
+    border-width: 2px;
+    border-style: solid; 
+    border-color: black;
+    text-align: center;
+    padding: 15px;
+    grid-area: s;}
+#numb20{
+    border-width: 2px;
+    border-style: solid; 
+    border-color: black;
+    text-align: center;
+    padding: 15px;
+    grid-area: t;}
+#numb21{
+    border-width: 2px;
+    border-style: solid; 
+    border-color: black;
+    text-align: center;
+    padding: 15px;
+    grid-area: u;}
+#numb22{
+    border-width: 2px;
+    border-style: solid; 
+    border-color: black;
+    text-align: center;
+    padding: 15px;
+    grid-area: v;}
+#numb23{
+    border-width: 2px;
+    border-style: solid; 
+    border-color: black;
+    text-align: center;
+    padding: 50px;
+    grid-area: w;}
+#numb24 {
+    border-width: 2px;
+    border-style: solid; 
+    border-color: black;
+    text-align: center;
+    padding: 15px;grid-area: x;
+}
+
+#numb25 {
+    border-width: 2px;
+    border-style: solid; 
+    border-color: black;
+    text-align: center;
+    padding: 15px;
+    grid-area: y;
+}
+
+#numb26 {
+    border-width: 2px;
+    border-style: solid; 
+    border-color: black;
+    text-align: center;
+    padding: 15px;
+    grid-area: z;
+}
+
+#numb27 {
+    border-width: 2px;
+    border-style: solid; 
+    border-color: black;
+    text-align: center;
+    padding: 15px;
+    grid-area: a1;
+}
+
+#numb28 {
+    border-width: 2px;
+    border-style: solid; 
+    border-color: black;
+    text-align: center;
+    padding: 15px;
+    grid-area: a2;
+}
+
+#numb29 {
+    border-width: 2px;
+    border-style: solid; 
+    border-color: black;
+    text-align: center;
+    padding: 15px;
+    grid-area: a3;
+}
+
+#numb30 {
+    border-width: 2px;
+    border-style: solid; 
+    border-color: black;
+    text-align: center;
+    padding: 15px;
+    grid-area: a4;
+}

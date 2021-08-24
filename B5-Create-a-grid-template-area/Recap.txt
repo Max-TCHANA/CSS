@@ -1,0 +1,13 @@
+Recap
+Use  grid-template-areas  with  grid-template  to set layouts visually in your code.  
+
+
+In summary:
+Set the number of columns and rows, and their measurements, 
+in grid-template (or separately in grid-template-columns and grid-template-rows).
+
+Define a template using letters, words, or numbers of your choice in grid-template-areas, 
+putting a space between each and putting each row in a set of quotation marks.
+
+Map elements to these letters, words, or numbers of your choice by defining grid-area on each element.
+

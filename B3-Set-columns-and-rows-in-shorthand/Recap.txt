@@ -1,0 +1,6 @@
+Recap
+Use the  repeat  function to make a series of rows or columns of equal size.  `
+
+Specify the number of repeats and the measurement to repeat within the function. 
+
+A repeat function for both rows and columns can be specified on the same line if you add a slash between the two repeat functions. 

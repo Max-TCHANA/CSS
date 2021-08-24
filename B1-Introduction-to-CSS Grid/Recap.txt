@@ -1,0 +1,18 @@
+CSS Grid is a set of CSS properties that allow creation of two-dimensional layouts defined by columns and rows.
+
+Instead of having to manually set an element's position using pixel distances and complicated math 
+(which is the way things used to be!), you can simply set the number of columns and rows you want and let Grid position them for you.
+
+Example: look at the sample file: To keep things simple, we'll use colorful blocks that could represent articles, photos,
+ or whatever you'd end up putting in your own project.
+
+CSS Grid is very powerful. It can also be used in combination with the concepts like padding, borders, and margins.
+
+Note: in order for CSS Grid to work with Internet Explorer, you must preface your grid rules with -ms.
+There is a lot of good advice on this on the Mozilla Developer Network (MDN).
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/CSS_Grid_and_Progressive_Enhancement
+
+Recap
+CSS Grid is a set of CSS properties that allow you to create of two-dimensional layouts via columns and rows.
+
+Columns and rows are the basic layout building blocks for most websites.

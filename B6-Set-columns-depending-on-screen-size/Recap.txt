@@ -1,0 +1,8 @@
+Recap
+
+CSS Grid offers flexible solutions for different screen sizes that don't involve media queries at all!
+
+- auto-fit
+
+- minmax
+

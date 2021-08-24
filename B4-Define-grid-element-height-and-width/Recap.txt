@@ -1,0 +1,4 @@
+Recap
+Use   grid-column  and  grid-row  properties to create columns that take up more than one standard defined column 
+or standard defined row.  
+

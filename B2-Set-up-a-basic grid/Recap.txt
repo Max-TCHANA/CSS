@@ -1,0 +1,8 @@
+Recap
+To use CSS grid, add the display property to your container element and set it to grid.
+
+Set the columns and rows of your grid using  grid-template-columns  and  grid-template-rows .
+
+Set a default row value for all future rows via  grid-auto-rows .
+
+Use Fraction units or "fr" to size columns and rows to proportionate or equal values.  

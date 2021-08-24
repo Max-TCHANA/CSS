@@ -1,0 +1,6 @@
+<div class="container">
+    <header>Header</header>
+    <section id="a">Section A</section>
+    <section id="b">Section B</section>
+    <footer>Footer</footer>
+</div>
