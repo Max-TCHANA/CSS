@@ -1,0 +1,12 @@
+Recap:
+
+flex-container   : the container with the items inside that will be arranged in either rows or columns
+
+flex-direction   : the direction in which the elements are arranged
+
+row-reverse   : a row from right to left
+
+column-reverse   : a column from bottom to top
+
+flex-item  : an item arranged via Flexbox
+

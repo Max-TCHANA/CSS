@@ -1,0 +1,10 @@
+Recap:
+
+To add Flexbox capability, use the property  display  and set it to  flex .
+
+Use  flex-direction  to add elements in a row or column and set it to one of four values: row ,  row-reverse ,  column , or  column-reverse . 
+
+Use  flex-wrap  to ensure that elements take up the space they need.  It can be set to  wrap ,  nowrap , or  wrap-reverse. 
+
+Use  flex-flow  to combine direction and wrapping. 
+

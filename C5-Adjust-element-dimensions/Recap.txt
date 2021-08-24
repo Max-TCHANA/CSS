@@ -1,0 +1,9 @@
+Recap:
+
+Use  flex-basis  to ensure that elements take up the same amount of space on the x-axis. 
+
+Use  flex-grow  to make elements bigger than the ones next to them. 
+
+Use  flex-shrink  to reduce the size of certain elements when there's not enough space. 
+
+All three properties can be combined into a single property called  flex  . 

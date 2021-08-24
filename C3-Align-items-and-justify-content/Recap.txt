@@ -1,0 +1,11 @@
+Recap:
+
+For horizontal arrangements (rows): the main axis is horizontal, and the cross axis is vertical.
+
+For vertical arrangements (columns): the main axis is vertical, and the cross axis is horizontal.
+
+Use  justify-content  to align along the main axis.
+
+Use  align-items  to align along the cross axis.
+
+Use  align-self  to align a single element.
