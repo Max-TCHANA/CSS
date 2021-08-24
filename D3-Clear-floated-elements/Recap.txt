@@ -1,0 +1,3 @@
+Recap
+
+Just stick with float and clear usage in this very specific case of wrapping text around images, and you should be fine!

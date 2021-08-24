@@ -1,0 +1,9 @@
+Recap
+
+There are many front-end frameworks to choose from, including plenty that don't appear in this chapter! 
+However, they often offer similar features: easy grid systems, responsiveness, etc. 
+Using them is a great way to ensure consistency among your pages and default styles that don't require much work.
+
+Nonetheless, nothing beats knowing pure CSS tools that don't require frameworks, like basic layout properties, Flexbox, and CSS Grid.
+The more you master pure CSS, the more you'll be able to harness the power of external tools like Bootstrap, 
+Bulma, and Foundation in order to adapt them to your particular needs.

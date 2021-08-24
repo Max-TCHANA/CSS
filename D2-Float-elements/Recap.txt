@@ -1,0 +1,5 @@
+Recap
+
+Floats used to be applied to construct layouts.
+
+Only use floats to wrap text around images , as they were first intended to do!

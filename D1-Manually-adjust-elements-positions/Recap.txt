@@ -1,0 +1,10 @@
+Recap
+
+While setting positions using relative, absolute, or fixed values may seem like a straightforward idea, 
+you'll sometimes find these solutions to be outdated. They are also easily broken. 
+They don't respond to different screen sizes, meaning you need to hardcode the values you want in 
+different media queries for different screen sizes. You'll rarely want the same positioning for an element on 
+a desktop and on a mobile device.
+
+Nonetheless, you'll see this kind of code in older code bases or in situations where there was no other option 
+for positioning an element in a linear, grid-oriented way.

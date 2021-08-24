@@ -1,0 +1,5 @@
+Recap
+
+The property z-index allows you to stack overlapping elements in the order of your choice.
+
+The highest  z-index  value will be visible at the top of the stack. 
